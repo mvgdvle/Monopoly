@@ -1,8 +1,8 @@
 # Monopoly
 
 ## Zasady gry
-Aby rozpocząć grę, należy uruchomić plik ‘main.py’.
-Celem gry jest doprowadzenie przeciwników do bankructwa.
+Aby rozpocząć grę, należy uruchomić plik ‘main.py’.\
+Celem gry jest doprowadzenie przeciwników do bankructwa.\
 W grze może uczestniczyć od 2 do 6 osób. Każdy gracz na początku rozgrywki otrzymuje 1500
 zł. Uczestnicy po kolei rzucają dwoma kostkami, przesuwają się o sumę oczek na następne 
 pole oraz wykonują akcje z nim związane. Gra się kończy, gdy zostaje tylko jeden uczestnik, 
